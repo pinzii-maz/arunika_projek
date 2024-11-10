@@ -111,7 +111,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </a>
     </div>
 
-    <div class="relative w-full h-5/6 flex bg-white bg-opacity-40 backdrop-blur-lg rounded-lg overflow-hidden shadow-lg">
+    <div class="relative w-full max-w-6xl h-5/6 flex bg-white bg-opacity-40 backdrop-blur-lg rounded-lg overflow-hidden shadow-lg">
         <div class="w-1/2 flex flex-col justify-center items-center bg-gray-200 bg-opacity-50 p-8">
             <div class="flex flex-col justify-between bg-gray-800 bg-opacity-50 p-8 h-3/4">
                 <div class="flex flex-col justify-start items-start">
