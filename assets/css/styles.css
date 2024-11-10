@@ -1,0 +1,14 @@
+.hidden {
+    display: none;
+}
+
+canvas {
+    border: 1px solid #ccc;
+    cursor: crosshair;
+}
+
+.gradient-text {
+    background: linear-gradient(to right, #d1d5db, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

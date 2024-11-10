@@ -1,0 +1,7 @@
+.zigzag-row:nth-child(even) {
+  background-color: #f9fafb;
+}
+
+.zigzag-row:nth-child(odd) {
+  background-color: #ffffff; /* Warna latar belakang untuk baris ganjil */
+}
